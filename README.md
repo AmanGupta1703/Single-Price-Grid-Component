@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Code Link](https://github.com/AmanGupta1703/Single-Price-Grid-Component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Single Price Grid Component](https://amangupta1703.github.io/Single-Price-Grid-Component/)
 
 ## My process
 
@@ -116,5 +116,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Single Price Grid Component - (https://amangupta1703.github.io/Single-Price-Grid-Component/)
 - Frontend Mentor - [@AmanGupta1703](https://www.frontendmentor.io/profile/AmanGupta1703)
