@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [GitHub Code Link](https://github.com/AmanGupta1703/Single-Price-Grid-Component)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
