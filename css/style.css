@@ -18,7 +18,8 @@
   --subs-heading-clr: hsl(204, 43%, 93%, 0.6);
   --grayish-blue: hsl(218, 22%, 67%);
   --aboutus-background: hsl(179, 62%, 43%, 0.8);
-  --bs-signup-btn: 0rem 0.625rem 0.625rem rgb(0 0 0 / 24%);;
+  --bs-signup-btn: 0rem 0.625rem 0.625rem rgb(0 0 0 / 24%);
+  --bs-container: 0rem 0.9375rem 1.875rem rgb(0 81 171 / 15%);
   --white: hsl(0, 0%, 100%);
   --font-family: "Karla", sans-serif;
 }
@@ -54,10 +55,12 @@ body {
 }
 
 /* CONTAINER */
+.container {
+  box-shadow: var(--bs-container);
+}
 
 /* PRICE CARD ITEM */
 .price-card-item {
-  box-shadow: 0rem 0.9375rem 1.875rem rgb(0 81 171 / 15%);
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   width: 46rem;
